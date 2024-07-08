@@ -94,3 +94,20 @@ nav li a{
 .item-description{
     font-weight: 600;
 }
+/* skill */
+.skill{
+    margin-top: 130px;
+}
+.text-aling{
+    text-align: center;
+}
+.skill-container{
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    
+}
+.skill-items{
+    width: 267px;
+    padding-top: 20px;
+}
